@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/pradeep769/Applied-programming-skills/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/pradeep769/Applied-programming-skills/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/pradeep769/Applied-programming-skills/tree/master/0946-validate-stack-sequences) |
+| [0994-rotting-oranges](https://github.com/pradeep769/Applied-programming-skills/tree/master/0994-rotting-oranges) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/pradeep769/Applied-programming-skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/pradeep769/Applied-programming-skills/tree/master/1480-running-sum-of-1d-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/pradeep769/Applied-programming-skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
@@ -149,4 +150,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/pradeep769/Applied-programming-skills/tree/master/0239-sliding-window-maximum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/pradeep769/Applied-programming-skills/tree/master/0994-rotting-oranges) |
+## Matrix
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/pradeep769/Applied-programming-skills/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
