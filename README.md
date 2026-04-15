@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/pradeep769/Applied-programming-skills/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/pradeep769/Applied-programming-skills/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/pradeep769/Applied-programming-skills/tree/master/0496-next-greater-element-i) |
+| [0542-01-matrix](https://github.com/pradeep769/Applied-programming-skills/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/pradeep769/Applied-programming-skills/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/pradeep769/Applied-programming-skills/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/pradeep769/Applied-programming-skills/tree/master/0735-asteroid-collision) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pradeep769/Applied-programming-skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0542-01-matrix](https://github.com/pradeep769/Applied-programming-skills/tree/master/0542-01-matrix) |
 ## String
 |  |
 | ------- |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/pradeep769/Applied-programming-skills/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/pradeep769/Applied-programming-skills/tree/master/0210-course-schedule-ii) |
+| [0542-01-matrix](https://github.com/pradeep769/Applied-programming-skills/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/pradeep769/Applied-programming-skills/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/pradeep769/Applied-programming-skills/tree/master/0695-max-area-of-island) |
 | [0841-keys-and-rooms](https://github.com/pradeep769/Applied-programming-skills/tree/master/0841-keys-and-rooms) |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/pradeep769/Applied-programming-skills/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/pradeep769/Applied-programming-skills/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/pradeep769/Applied-programming-skills/tree/master/0994-rotting-oranges) |
 ## Graph Theory
