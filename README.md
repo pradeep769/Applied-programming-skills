@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/pradeep769/Applied-programming-skills/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/pradeep769/Applied-programming-skills/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/pradeep769/Applied-programming-skills/tree/master/0695-max-area-of-island) |
 | [0841-keys-and-rooms](https://github.com/pradeep769/Applied-programming-skills/tree/master/0841-keys-and-rooms) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/pradeep769/Applied-programming-skills/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/pradeep769/Applied-programming-skills/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/pradeep769/Applied-programming-skills/tree/master/0841-keys-and-rooms) |
 | [0997-find-the-town-judge](https://github.com/pradeep769/Applied-programming-skills/tree/master/0997-find-the-town-judge) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/pradeep769/Applied-programming-skills/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/pradeep769/Applied-programming-skills/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/pradeep769/Applied-programming-skills/tree/master/0695-max-area-of-island) |
 | [0841-keys-and-rooms](https://github.com/pradeep769/Applied-programming-skills/tree/master/0841-keys-and-rooms) |
@@ -186,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/pradeep769/Applied-programming-skills/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/pradeep769/Applied-programming-skills/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/pradeep769/Applied-programming-skills/tree/master/1971-find-if-path-exists-in-graph) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/pradeep769/Applied-programming-skills/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
