@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/pradeep769/Applied-programming-skills/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/pradeep769/Applied-programming-skills/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/pradeep769/Applied-programming-skills/tree/master/0496-next-greater-element-i) |
+| [0695-max-area-of-island](https://github.com/pradeep769/Applied-programming-skills/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/pradeep769/Applied-programming-skills/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/pradeep769/Applied-programming-skills/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/pradeep769/Applied-programming-skills/tree/master/0739-daily-temperatures) |
@@ -156,11 +157,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/pradeep769/Applied-programming-skills/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/pradeep769/Applied-programming-skills/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/pradeep769/Applied-programming-skills/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/pradeep769/Applied-programming-skills/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
 | ------- |
+| [0695-max-area-of-island](https://github.com/pradeep769/Applied-programming-skills/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/pradeep769/Applied-programming-skills/tree/master/0994-rotting-oranges) |
 ## Graph Theory
 |  |
@@ -172,10 +175,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/pradeep769/Applied-programming-skills/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/pradeep769/Applied-programming-skills/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/pradeep769/Applied-programming-skills/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/pradeep769/Applied-programming-skills/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/pradeep769/Applied-programming-skills/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/pradeep769/Applied-programming-skills/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
