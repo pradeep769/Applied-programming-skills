@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/pradeep769/Applied-programming-skills/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/pradeep769/Applied-programming-skills/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/pradeep769/Applied-programming-skills/tree/master/0739-daily-temperatures) |
+| [0929-unique-email-addresses](https://github.com/pradeep769/Applied-programming-skills/tree/master/0929-unique-email-addresses) |
 | [0946-validate-stack-sequences](https://github.com/pradeep769/Applied-programming-skills/tree/master/0946-validate-stack-sequences) |
 | [0994-rotting-oranges](https://github.com/pradeep769/Applied-programming-skills/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/pradeep769/Applied-programming-skills/tree/master/0997-find-the-town-judge) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/pradeep769/Applied-programming-skills/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/pradeep769/Applied-programming-skills/tree/master/0496-next-greater-element-i) |
 | [0721-accounts-merge](https://github.com/pradeep769/Applied-programming-skills/tree/master/0721-accounts-merge) |
+| [0929-unique-email-addresses](https://github.com/pradeep769/Applied-programming-skills/tree/master/0929-unique-email-addresses) |
 | [0997-find-the-town-judge](https://github.com/pradeep769/Applied-programming-skills/tree/master/0997-find-the-town-judge) |
 ## Sliding Window
 |  |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/pradeep769/Applied-programming-skills/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/pradeep769/Applied-programming-skills/tree/master/0387-first-unique-character-in-a-string) |
 | [0721-accounts-merge](https://github.com/pradeep769/Applied-programming-skills/tree/master/0721-accounts-merge) |
+| [0929-unique-email-addresses](https://github.com/pradeep769/Applied-programming-skills/tree/master/0929-unique-email-addresses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/pradeep769/Applied-programming-skills/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Queue
 |  |
