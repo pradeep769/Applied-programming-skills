@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/pradeep769/Applied-programming-skills/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/pradeep769/Applied-programming-skills/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pradeep769/Applied-programming-skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/pradeep769/Applied-programming-skills/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/pradeep769/Applied-programming-skills/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/pradeep769/Applied-programming-skills/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/pradeep769/Applied-programming-skills/tree/master/0239-sliding-window-maximum) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/pradeep769/Applied-programming-skills/tree/master/0049-group-anagrams) |
 | [0142-linked-list-cycle-ii](https://github.com/pradeep769/Applied-programming-skills/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/pradeep769/Applied-programming-skills/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/pradeep769/Applied-programming-skills/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/pradeep769/Applied-programming-skills/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/pradeep769/Applied-programming-skills/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/pradeep769/Applied-programming-skills/tree/master/0387-first-unique-character-in-a-string) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/pradeep769/Applied-programming-skills/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/pradeep769/Applied-programming-skills/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/pradeep769/Applied-programming-skills/tree/master/0169-majority-element) |
 | [0721-accounts-merge](https://github.com/pradeep769/Applied-programming-skills/tree/master/0721-accounts-merge) |
 ## Dynamic Programming
 |  |
@@ -99,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/pradeep769/Applied-programming-skills/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/pradeep769/Applied-programming-skills/tree/master/0387-first-unique-character-in-a-string) |
 ## Linked List
 |  |
@@ -136,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/pradeep769/Applied-programming-skills/tree/master/0023-merge-k-sorted-lists) |
+| [0169-majority-element](https://github.com/pradeep769/Applied-programming-skills/tree/master/0169-majority-element) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
